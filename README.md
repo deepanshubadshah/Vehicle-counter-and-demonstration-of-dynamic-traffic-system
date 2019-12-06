@@ -9,3 +9,5 @@ Signal live timing (Greenlight duration) = 15*(No. of vehicles in the frame) Sec
 
 e.g. if there are 10 vehicles in the frame then live timing = 150sec.
 Hence live timing will be more for the signal with more vehicles.
+
+Input Video credit: Google.
